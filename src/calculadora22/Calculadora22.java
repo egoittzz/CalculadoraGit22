@@ -5,4 +5,8 @@ public class Calculadora22 {
 		return a + b;
 		
 	}
+	public int restar(int a, int b) { 
+		return a - b;
+	}
+
 }
