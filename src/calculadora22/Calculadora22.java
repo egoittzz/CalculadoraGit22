@@ -11,7 +11,7 @@ public class Calculadora22 {
 	public int multiplicar(int a, int b) { 
 		return a * b;
 	}
-
+/**este el metodo de dividir*/
 	public double dividir(int a, int b) { 
 		if (b == 0) {
 			throw new IllegalArgumentException("No se puede dividir entre cero");
