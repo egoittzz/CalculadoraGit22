@@ -1,5 +1,5 @@
 package calculadora22;
-
+/**este el metodo de dividir*/
 public class Calculadora22 {
 	public int sumar(int a, int b) {
 		return a + b;
@@ -26,7 +26,7 @@ public class Calculadora22 {
 	}
 	return resultado;
 	}
-
+/**este el metodo de dividir*/
 	public int modulo(int a, int b) { 
 		return a % b;
 	}
