@@ -1,5 +1,5 @@
 package calculadora22;
-/**este el metodo de dividir*/
+ @version (3.0)
 public class Calculadora22 {
 	public int sumar(int a, int b) {
 		return a + b;
